@@ -1,0 +1,12 @@
+{
+  "name": "starwars",
+  "version": "1.0.0",
+  "description": "Get random Starwars names",
+  "main": "src/index.js",
+  "repository": "https://github.com/rusbal/starwars-names-ray.git",
+  "author": "Raymond S. Usbal <raymond@philippinedev.com>",
+  "license": "MIT",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
